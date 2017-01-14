@@ -1,12 +1,5 @@
 .intro {
   font-style: italic;
-  width: 63%;
-}
-
-img.intro {
-  width: 50%;
-}
-
-p.intro {
-  font-size: 16pt;
+  width: 53%;
+  color: grey;
 }
